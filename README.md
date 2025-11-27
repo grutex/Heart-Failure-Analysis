@@ -7,14 +7,16 @@ This project builds upon the work presented by **_Merlin Alex_** & **_Maheen Has
 
 [Google Colabolatory of the Project](https://colab.research.google.com/drive/1uTj5PE84BZ8ZuCoFtqn3ZQ4cWv6C8s3q?authuser=2)
   
-Members - Github:  
-  Roberto Almeida Burlamaque Catunda - @grutex
+**Colaborators ; Github:**  
+  Roberto Almeida Burlamaque Catunda ; @grutex
+  Gabriel Reis ;
+  Joao Pedro ;
+  Marina da Fonseca Frias de Siqueira Campos ; @MarinaFFSC
+  David Ian Pereira Paula ; @davidian19
 
-Discipline:  
-  Machine Learning - 2nd Semester of 2025
 
-Institution:  
-  C.E.S.A.R School, Recife, Brazil
+**Discipline & Institution:**  
+  Machine Learning - 2nd Semester of 2025 @ C.E.S.A.R School, Recife, Brazil
 
   
 < HOW TO ; STEP-BY-STEP >  
