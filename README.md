@@ -18,8 +18,8 @@ A Beat Ahead: ML in Cardiology. Turning data into a lifeline by predicting a hea
 
 ## **Colaborators & Github**  
   Roberto Almeida Burlamaque Catunda  -  @grutex  
-  Gabriel Reis  -  @13grmp  
-  Joao Pedro  -  @joaopedrofds  
+  Gabriel Reis de Melo Pires  -  @13grmp  
+  Joao Pedro Araújo  -  @joaopedrofds  
   Marina da Fonseca Frias de Siqueira Campos  -  @MarinaFFSC  
   David Ian Pereira Paula  -  @davidian19  
 
