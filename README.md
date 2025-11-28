@@ -26,9 +26,16 @@ This project builds upon the work presented by **_Merlin Alex_** & **_Maheen Has
 <br/>
 
 ## **Discipline & Institution:**  
-  Machine Learning - 2nd Semester of 2025 @ C.E.S.A.R School, Recife, Brazil  
+  Machine Learning - 2nd Semester of 2025 @ C.E.S.A.R School, Recife, Brazil
 
  <br/>
  
-## **< HOW TO ; STEP-BY-STEP >**
-  1. 
+## **How to Replicate and Execute**
+
+This guide provides step-by-step instructions to set up the environment, configure dependencies, and execute the code.
+
+### 1. Prerequisites
+Before you begin, ensure you have the following installed locally:
+* **OS:** Windows 10+, macOS 12+, or a Linux System
+* **Language:** Python 3.9+, !!! outras possiveis linguagens aqui !!!
+* **Tools:** Git, Docker, !!! o resto das Ferramentas necessarias !!!
