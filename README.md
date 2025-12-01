@@ -30,7 +30,7 @@ ML in Cardiology: turning data into a lifeline by predicting a heart failure sur
 
 <br/>
  
-## **How to Replicate and Execute**
+## **How to Replicate and Execute (Step-by-Step)**
 
 This guide provides step-by-step instructions to set up the environment, configure dependencies, and execute the code.
 
