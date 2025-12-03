@@ -104,28 +104,12 @@ docker logs thingsboard -n 20
 docker logs --all
 ```
 
-#### File Structure
+#### ML Model used on ThingsBoard
 
-```
-ml-cesar/
-├── fastapi/                    # API de Predição
-│   ├── main.py                # FastAPI app
-│   ├── predict.py             # Lógica de ML
-│   └── requirements.txt
-├── notebooks/                  # Jupyter Notebooks
-│   └── heartFailureSurvivalPrediction.ipynb
-├── docker-compose.yml         # Orquestração
-├── backup_databases.ps1       # Backup
-├── restore_database.ps1       # Restore
-└── configure_thingsboard.py   # Setup ThingsBoard
-```
-
-#### ML Model used on ThingsBorad
-
-- **Sampelr**: SMOTE
+- **Synthethic Data Sampler**: SMOTE
 - **Model**: RandomForestClassifier
 - **Features**: 12 params
-- **Target**: DEATH_EVENT (0 ou 1)
+- **Target**: DEATH_EVENT (0 or 1)
 
 #### Dataflow
 
